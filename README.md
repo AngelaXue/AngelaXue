@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me 🧘🏻‍♀️
 
 <!--
 **AngelaXue/AngelaXue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! My name is Angela. I am a senior studying Computer Science at Rutgers University.

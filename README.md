@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Angela. I am a senior studying Computer Science at Rutgers University.
+Hi! My name is Angela. I am a senior studying Computer Science, Mathematics, and Cognitive Science at Rutgers University.
+
+Welcome to my page :)
